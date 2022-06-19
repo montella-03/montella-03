@@ -1,6 +1,6 @@
 hello am christopher oigo.
-- 👀 I’m interested in python .
-- 🌱 I’m currently learning  pyhon and machine learning...
-learning software engineering course, (alx)
-c programmer
+- 👀 I’m interested in Java .
+- 🌱 I’m currently learning  java...
+little bit on c.
+java programmer
 
