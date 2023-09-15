@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/montella_c" target="blank"><img src="https://img.shields.io/twitter/follow/montella_c?logo=twitter&style=for-the-badge" alt="montella_c" /></a> </p>
 
-- 🌱 I’m currently learning **Vaadin Framework, its Amazing**
+- 🌱 I’m currently learning **Vaadin & Hilla Framework, Amazing right?**
 
-- 💬 Ask me about **Java,Css,Javascript,React**
+- 💬 Ask me about **Java,SpringBoot**
 
 - 📫 How to reach me **oigoc60@gmail.com**
 
-- ⚡ Fun fact **I know am cool**
+- ⚡ Fun fact **I am cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
