@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Azure DevOps & argo CD**
 
-- 💬 Ask me about **Java,SpringBoot Vaadin && Hilla**
+- 💬 Ask me about **Java,SpringBoot, Vaadin && Hilla**
 
 - 📫 How to reach me **oigoc60@gmail.com**
 
