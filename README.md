@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **oigoc60@gmail.com**
 
-- ⚡ Fun fact **I am cool**
+- ⚡ Fun fact **I am cool,yeah**
 
 </p>
 
